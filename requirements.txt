@@ -1,0 +1,4 @@
+scikit learn
+fast api
+joblib
+pydantic
